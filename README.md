@@ -1,3 +1,3 @@
 <h3>Travel</h3>
 
-<a href="https://enchanting-pegasus-20e87e.netlify.app/"><img src="web-pr-1.png"></a>
+<a href="https://github.com/Ankitmahajna022/HTML-Project/tree/main/wed%20table"><img src="web-pr-1.png"></a>
